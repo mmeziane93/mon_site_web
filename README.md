@@ -1,2 +1,2 @@
 mon site web pour le cours git
-nous somme sur la branch develop
+nous somme sur la branch master
